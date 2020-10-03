@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yalitzab/Professional-README-Generator/issues"
   },
-  "homepage": "https://github.com/yalitzab/Professional-README-Generator#readme"
+  "homepage": "https://github.com/yalitzab/Professional-README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
 }

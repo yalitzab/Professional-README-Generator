@@ -1,7 +1,7 @@
-# README Generator 
+# Portfolio
 
 ## Description 
-The README Generator saves the user time by generating a README for their projects. The user can add the title, description, installation, usage, credits, license, contributions, test, and contact information can be added also. 
+This project is to showcase work and projects completed. 
 
 ## Table of Contents
 
@@ -13,22 +13,38 @@ The README Generator saves the user time by generating a README for their projec
 
 ## Installation
 
-npm install inquirer
+No installation needed
 
 ## Usage 
 
-Run the program by typing in the command line: node index.js. Input your informaiton for each question and your README genorator will generate your README. 
+Click on the GitHub link below to see the deployed project.
 
-![alt text](https://github.com/yalitzab/Professional-README-Generator/blob/main/RunProgramSnip.png "Run Program")
+
+## Credits
+
+yalitzab
+
+## License
+
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)(http://unlicense.org/)
 
 ---
   
+
 ## Badges
 
-![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
+
+## Contributions
+
+[GitHub: yalitzab](https://github.com/yalitzab)
+
+## Tests
+
+No test
 
 ## Questions
 
 [GitHub profile link: yalitzab](https://github.com/yalitzab)
 
-You can email me at testemail@gmail.com if you have any questions!
+You can email me at sampleemail@sample.com if you have any questions!

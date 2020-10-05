@@ -1,7 +1,7 @@
-# asd
+# README Generator 
 
 ## Description 
-sd
+The README Generator saves the user time by generating a README for their projects. The user can add the title, description, installation, usage, credits, license, contributions, test, and contact information can be added also. 
 
 ## Table of Contents
 
@@ -13,38 +13,22 @@ sd
 
 ## Installation
 
-s
+npm install inquirer
 
 ## Usage 
 
-d
+Run the program by typing in the command line: node index.js. Input your informaiton for each question and your README genorator will generate your README. 
 
-
-## Credits
-
-ce
-
-## License
-
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![alt text](https://github.com/yalitzab/Professional-README-Generator/blob/main/RunProgramSnip.png "Run Program")
 
 ---
   
-
 ## Badges
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
-
-## Contributions
-
-[GitHub: ce](https://github.com/ce)
-
-## Tests
-
-ces
+![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)
 
 ## Questions
 
-[GitHub profile link: svsd](https://github.com/svsd)
+[GitHub profile link: yalitzab](https://github.com/yalitzab)
 
-You can email me at cves if you have any questions!
+You can email me at testemail@gmail.com if you have any questions!

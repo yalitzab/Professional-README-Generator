@@ -19,7 +19,7 @@ npm install inquirer
 
 Run the program by typing in the command line: node index.js. Input your informaiton for each question and your README genorator will generate your README. 
 
-![alt text](https://github.com/yalitzab/air-hiker/blob/master/assets/images/HeaderScreenshot.PNG "Run Program")
+![alt text](https://github.com/yalitzab/Professional-README-Generator/blob/main/RunProgramSnip.png "Run Program")
 
 ---
   

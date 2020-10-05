@@ -45,7 +45,7 @@ ${data.badge ===
   "pull"? "[![GitHub pull requests](https://img.shields.io/github/issues-pr/cdnjs/cdnjs.svg?style=flat)]()": 
   "[![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()"}
 
-## Contributing
+## Contributions
 
 [GitHub: ${data.contributing}](https://github.com/${data.contributing})
 

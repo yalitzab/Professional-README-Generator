@@ -2,7 +2,6 @@ const inquirer = require("inquirer");
 
 const generate=require("./utils/generateMarkdown");
 const fs=require("fs")
-// const axios=require("axios")
 
 // array of questions for user
 const questions = () => {
@@ -41,7 +40,7 @@ const questions = () => {
         {
             type: 'input', 
             name: 'usage',
-            message: 'Provide instructions and examples for use. Include screenshots as needed.',
+            message: 'Provide instructions and examples for use.',
         },
         {
             type: 'input', 
@@ -92,12 +91,6 @@ const questions = () => {
             }
         },
     ]).then(data => {
-        //    const readmeContent=generate(data)
-        //    axios.get("https://api.github.com/users/" + data.githubInput).then(results => {
-        //        console.log(results)
-        //        data.githubLink=results.data.html_url
-              
-        //    })
             const readmeContent=generate(data)
             writeToFile("./README.md",readmeContent)
     })  ;
@@ -113,8 +106,6 @@ function writeToFile(fileName, data) {
 // function to initialize program
 function init() {
     questions()
-
-
 }
 
 // function call to initialize program
